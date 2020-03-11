@@ -23,3 +23,11 @@ Once I reach 40 GitHub sponsors, I'll make the source code public. Sponsors will
 Access to the source code will allow you to host the app on your own servers. This is primarily beneficial for GitHub Enterprise customers, but maybe you just want to support me in keeping this project alive and with all my other open-source contributions. 
 
 Thank you
+
+## Sponsors
+
+[![complex](https://user-images.githubusercontent.com/1393946/76413093-14e43b00-6395-11ea-805a-18138809f6e3.png)](https://www.complex-it.de/jobs/offene-stellen?utm_source=oss-referal&utm_medium=logo&utm_campaign=growwithus)
+
+I am truly grateful to all the wonderful humans and companies supporting my work. Please consider donations through [GitHub Sponsors](https://github.com/sponsors/stefanbuck/) – Thank you 🙇‍♂️
+
+
