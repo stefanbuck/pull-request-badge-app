@@ -12,7 +12,7 @@ From the get-go, I was convinced this approach could work for this project as we
 
 <a href="https://pullrequestbadge.com/"><img src="https://user-images.githubusercontent.com/1393946/75721049-e781f800-5cd7-11ea-9621-b78c247c511d.png" width="591"></a>
 
-This GitHub App adds badges to your Pull Requests automatically. The root idea was to automatically add a JIRA badge whenever a Pull Request is opened, but it does more than just that. Through the simple API You can easily present any kind of information. For instance you could add a preview badge with a link to a preview.   You could also indicate if the Pull Request is small! Check out [pullrequestbadge.com](https://pullrequestbadge.com/) for more examples and further details. 
+This GitHub App adds badges to your Pull Requests automatically. The root idea was to automatically add a JIRA badge whenever a Pull Request is opened, but it does more than just that. Through the simple API you can easily present any kind of information. For instance you could add a preview badge with a link to a preview.   You could also indicate if the Pull Request is small! Check out [pullrequestbadge.com](https://pullrequestbadge.com/) for more examples and further details. 
 
 ## The deal
 
